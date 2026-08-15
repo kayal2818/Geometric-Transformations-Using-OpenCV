@@ -144,14 +144,33 @@ plt.axis('off')
 ---
 
 ##  Output
-<img width="402" height="646" alt="image" src="https://github.com/user-attachments/assets/35889a88-d554-4208-b1c5-1cb77dcf05ae" />
-<img width="426" height="647" alt="image" src="https://github.com/user-attachments/assets/ddda61d3-d3ac-4b88-bbf3-86e017d9ebab" />
-<img width="853" height="542" alt="image" src="https://github.com/user-attachments/assets/54168196-ad4a-4a75-8bcc-de1de713d937" />
-<img width="438" height="660" alt="image" src="https://github.com/user-attachments/assets/6efcf30a-8cdc-4ecb-8e4e-b694404477db" />
-<img width="433" height="653" alt="image" src="https://github.com/user-attachments/assets/53a0c4c4-6191-4feb-bebe-3fe500461387" />
-<img width="456" height="665" alt="image" src="https://github.com/user-attachments/assets/6f73888b-8a45-4965-9209-cb1e764109e3" />
-<img width="772" height="612" alt="image" src="https://github.com/user-attachments/assets/86c06b27-968b-43e7-87a9-b5364d030778" />
+## Original Image
 
+<img width="334" height="510" alt="image" src="https://github.com/user-attachments/assets/f1bb9b08-d866-4707-a0a6-a2df9cc51ff9" />
+
+## Translated Image
+
+<img width="363" height="519" alt="image" src="https://github.com/user-attachments/assets/d88b0964-69d1-47d9-bcf6-784924bf8647" />
+
+## Scaled Image
+
+<img width="665" height="429" alt="image" src="https://github.com/user-attachments/assets/d600447c-67bf-4edd-99e2-cf423326379a" />
+
+## Sheared Image
+
+<img width="356" height="510" alt="image" src="https://github.com/user-attachments/assets/d247347d-2e52-4f1c-b331-53516932ef76" />
+
+## Reflected Image
+
+<img width="336" height="516" alt="image" src="https://github.com/user-attachments/assets/b9677206-0be8-4004-b73e-c627df632e69" />
+
+## Image Rotation
+
+<img width="364" height="508" alt="image" src="https://github.com/user-attachments/assets/49f46893-26c9-43cb-af52-c22f2ab9fba0" />
+
+## Image Cropping
+
+<img width="658" height="507" alt="image" src="https://github.com/user-attachments/assets/e03954f1-d2d4-4d3e-ae11-cedfae36ea05" />
 
 
 ### Image Translation
